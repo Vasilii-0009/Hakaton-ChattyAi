@@ -1,0 +1,45 @@
+.audio-message {
+   box-sizing: border-box;
+   margin: 28px 24px 0 auto;
+   padding: 12px;
+   display: flex;
+   align-items: center;
+   gap: 8px;
+   min-width: 300px;
+   min-height: 72px;
+   border-radius: 8px;
+   background-color: #272B30;
+   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.audio-message__control-btn {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   min-width: 48px;
+   height: 48px;
+   border-radius: 12px;
+   outline: none;
+   background-color: #5865F2;
+   cursor: pointer;
+}
+
+.audio-message__control-icon {
+   width: 24px;
+   height: 24px;
+}
+
+.audio-message__control-icon_type_play {
+   background: url('../../images/control-play.svg') center no-repeat;
+   transform: translate(10%);
+}
+
+.audio-message__control-icon_type_stop {
+   background: url('../../images/control-stop.svg') center no-repeat;
+}
+
+.audio-message__waveform-wrapper {
+   width: 134px;
+   height: 16px;
+   cursor: pointer;
+}

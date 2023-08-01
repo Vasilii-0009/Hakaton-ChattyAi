@@ -1,0 +1,119 @@
+.text-message {
+   margin-top: 28px;
+   max-width: 75%;
+   display: flex;
+   align-items: flex-end;
+   gap: 10px;
+}
+
+.text-message:first-child {
+   margin-top: 64px;
+}
+
+
+.text-message__avatar {
+   min-width: 48px;
+   height: 48px;
+   border-radius: 48px;
+   background-color: #CABDFF;
+}
+
+.text-message__logo {
+   min-width: 48px;
+   height: 48px;
+   background: url('../../images/message-logo.svg') center no-repeat;
+}
+
+.text-message__container {
+   padding: 12px;
+   border-radius: 8px;
+   background: #272B30;
+   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.text-message__container_type_error {
+  background: #583434;
+  box-shadow: none;
+}
+
+.text-message__header {
+   font-size: 16px;
+   font-weight: 600;
+   line-height: 24px;
+   letter-spacing: -0.01em;
+}
+
+.text-message__text {
+   margin-top: 4px;
+   font-size: 16px;
+   line-height: 24px;
+   letter-spacing: -0.01em;
+   white-space: pre-line;
+}
+
+.text-message__ellipsis {
+   width: 20px;
+   height: 20px;
+   margin-top: 5px;
+   font-size: 20px; 
+   line-height: 1;
+   white-space: nowrap;
+   overflow: hidden;
+   color: white;
+}
+
+@keyframes text-message__ellipsis {
+   0% {
+     content: ''; 
+   }
+   33% {
+     content: '•';
+   }
+   66% {
+     content: '••';
+   }
+   100% {
+     content: '•••';
+   }
+ }
+ 
+ .text-message__ellipsis::after {
+   content: '';
+   display: inline-block;
+   width: 0;
+   animation: text-message__ellipsis 1.3s steps(4) infinite;
+ }
+
+ .text-message__copy-btn {
+   box-sizing: border-box;
+   padding: 4px;
+   display: flex;
+   align-items: center;
+   border: #454545 1px solid;
+   border-radius: 4px;
+   background-color: #272B30;
+   margin-top: 20px;
+   min-width: 130px;
+   min-height: 32px;
+   margin-left: auto;
+   cursor: pointer;
+ }
+
+ .text-message__copy-btn:hover {
+   opacity: 0.5;
+ }
+
+ .text-message__copy-icon {
+   min-width: 24px;
+   height: 24px;
+   background: url('../../images/copy.svg') center no-repeat;
+ }
+
+ .text-message__copy-text {
+   margin-left: 4px;
+   font-size: 13px;
+   font-weight: 600;
+   line-height: 16px;
+   text-align: center;
+   color: white
+ }

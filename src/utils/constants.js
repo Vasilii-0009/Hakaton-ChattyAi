@@ -1,0 +1,1 @@
+export const RECORDING_DURATION = 600000;

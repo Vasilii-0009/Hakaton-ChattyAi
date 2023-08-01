@@ -1,0 +1,152 @@
+/* Inter */
+@font-face {
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 300;
+   font-display: swap;
+   src: url("./Inter/Inter-Light.woff") format("woff"),
+      url("./Inter/Inter-Light.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-display: swap;
+   src: url("./Inter/Inter-Regular.woff") format("woff"),
+      url("./Inter/Inter-Regular.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-display: swap;
+   src: url("./Inter/Inter-Medium.woff") format("woff"),
+      url("./Inter/Inter-Medium.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 600;
+   font-display: swap;
+   src: url("./Inter/Inter-SemiBold.woff") format("woff"),
+      url("./Inter/Inter-SemiBold.woff2") format("woff2");
+}
+
+/* OpenSans */
+
+/* @font-face {
+   font-family: 'OpenSans';
+   font-style: normal;
+   font-weight: 400;
+   font-display: swap;
+   src: url("./OpenSans/OpenSans-Regular.woff") format("woff"),
+      url("./OpenSans/OpenSans-Regular.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'OpenSans';
+   font-style: normal;
+   font-weight: 600;
+   font-display: swap;
+   src: url("./OpenSans/OpenSans-SemiBold.woff") format("woff"),
+      url("./OpenSans/OpenSans-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'OpenSans';
+   font-style: normal;
+   font-weight: 700;
+   font-display: swap;
+   src: url("./OpenSans/OpenSans-Bold.woff") format("woff"),
+      url("./OpenSans/OpenSans-Bold.woff2") format("woff2");
+} */
+
+/* Ubuntu */
+
+/* @font-face {
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 400;
+   font-display: swap;
+   src: url("./Ubuntu/Ubuntu-Regular.woff") format("woff"),
+      url("./Ubuntu/Ubuntu-Regular.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 500;
+   font-display: swap;
+   src: url("./Ubuntu/Ubuntu-Medium.woff") format("woff"),
+      url("./Ubuntu/Ubuntu-Medium.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 700;
+   font-display: swap;
+   src: url("./Ubuntu/Ubuntu-Bold.woff") format("woff"),
+      url("./Ubuntu/Ubuntu-Bold.woff2") format("woff2");
+} */
+
+/* Raleway */
+
+/* @font-face {
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 500;
+   font-display: swap;
+   src: url("./Raleway/Raleway-Medium.woff") format("woff"),
+      url("./Raleway/Raleway-Medium.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 700;
+   font-display: swap;
+   src: url("./Raleway/Raleway-Black.woff") format("woff"),
+      url("./Raleway/Raleway-Black.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 800;
+   font-display: swap;
+   src: url("./Raleway/Raleway-ExtraBold.woff") format("woff"),
+      url("./Raleway/Raleway-ExtraBold.woff2") format("woff2");
+} */
+
+/* NtSomic */
+
+@font-face {
+   font-family: 'NTSomic';
+   font-style: normal;
+   font-weight: 800;
+   font-display: swap;
+   src: url("./NT-Somic/NTSomic-Bold.woff") format("woff"),
+      url("./NT-Somic/NTSomic-Bold.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'NTSomic';
+   font-style: normal;
+   font-weight: 500;
+   font-display: swap;
+   src: url("./NT-Somic/NTSomic-Medium.woff") format("woff"),
+      url("./NT-Somic/NTSomic-Medium.woff2") format("woff2");
+}
+
+@font-face {
+   font-family: 'NTSomic';
+   font-style: normal;
+   font-weight: 400;
+   font-display: swap;
+   src: url("./NT-Somic/NTSomic-Regular.woff") format("woff"),
+      url("./NT-Somic/NTSomic-Regular.woff2") format("woff2");
+}

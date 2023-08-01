@@ -1,0 +1,8 @@
+/* normalize */
+@import url(./vendor/normalize.css);
+
+
+body {
+   background-color: #000000;
+   overflow: hidden;
+}

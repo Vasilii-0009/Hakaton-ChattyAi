@@ -1,0 +1,77 @@
+.recording-input {
+    
+}
+
+.recording-input__wrapper {
+    margin: 6px 18px 0 0;
+    box-sizing: border-box;
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    height: 72px;
+    border-radius: 20px;
+    border: 1px solid #E6E6E6;
+}
+
+.recording-input__text {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.15px;
+    color: #CCCCCC;
+    width: 100%;
+}
+
+.recording-input__timer {
+    font-size: 14px;
+    line-height: 16.41px;
+    letter-spacing: .01em;
+    white-space: nowrap;
+}
+
+.recording-input__track {
+    margin-left: 50px;
+    width: 100%;
+}
+
+.recording-input__btn {
+    min-width: 48px;
+    min-height: 48px;
+    border-radius: 12px;
+    background-color: #1A1D21;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 24px;
+    cursor: pointer;
+}
+
+.recording-input__btn_disabled {
+    background-color: rgba(255, 252, 252, 0.3);;
+    cursor: default;
+}
+
+.recording-input__btn:not(.recording-input__btn_disabled):hover {
+    background-color: #483458;
+}
+
+.recording-input__btn_hover_red:hover {
+    background-color: #583434;
+}
+
+.recording-input__icon {
+    width: 20px;
+    height: 20px;
+}
+
+.recording-input__icon_start {
+    background: url('../../images/start.svg') center no-repeat;
+}
+
+.recording-input__icon_send {
+    background: url('../../images/send.svg') center no-repeat;
+}
+
+.recording-input__icon_delete {
+    background: url('../../images/delete.svg') center no-repeat;
+}
