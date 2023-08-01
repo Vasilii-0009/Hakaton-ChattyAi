@@ -6,6 +6,7 @@ const API_KEY = process.env.REACT_APP_APISECRET.split(',').reverse().join('');
 // const API_KEY = process.env.REACT_APP_APISECRET;
 // const API_KEY = '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'
 console.log('API_KEY Vasilii', API_KEY)
+console.log('API_KEY', API_KEY)
 
 export const sendAudio = async (formData) => {
   try {
