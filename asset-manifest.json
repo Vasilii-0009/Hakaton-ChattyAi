@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Hakaton-ChattyAi/static/css/main.d0941513.css",
+    "main.js": "/Hakaton-ChattyAi/static/js/main.5ccf7eda.js",
+    "static/js/787.7ffbbae1.chunk.js": "/Hakaton-ChattyAi/static/js/787.7ffbbae1.chunk.js",
+    "static/media/main-logo.svg": "/Hakaton-ChattyAi/static/media/main-logo.42523019f866047b465f.svg",
+    "static/media/delete.svg": "/Hakaton-ChattyAi/static/media/delete.351ab7395b0c80582c20.svg",
+    "static/media/sidebar-chat.svg": "/Hakaton-ChattyAi/static/media/sidebar-chat.85f2c5cb17341849c10d.svg",
+    "static/media/logo.svg": "/Hakaton-ChattyAi/static/media/logo.daeab6e2bad10d19d650.svg",
+    "static/media/message-logo.svg": "/Hakaton-ChattyAi/static/media/message-logo.dea0f166e75e2bc98a02.svg",
+    "static/media/copy.svg": "/Hakaton-ChattyAi/static/media/copy.0b7f4ac913a2cc19146c.svg",
+    "static/media/send.svg": "/Hakaton-ChattyAi/static/media/send.b8961de59ce6975c18eb.svg",
+    "index.html": "/Hakaton-ChattyAi/index.html",
+    "static/media/collapse.svg": "/Hakaton-ChattyAi/static/media/collapse.2c562da343e351229260.svg",
+    "static/media/start.svg": "/Hakaton-ChattyAi/static/media/start.16ef1aa720923396008f.svg",
+    "static/media/control-play.svg": "/Hakaton-ChattyAi/static/media/control-play.bae6f665be5b7ec733e7.svg",
+    "static/media/arrowDown.svg": "/Hakaton-ChattyAi/static/media/arrowDown.f73dcab8d3752326791e.svg",
+    "static/media/arrowTop.svg": "/Hakaton-ChattyAi/static/media/arrowTop.9e61d4e1b1b036f78644.svg",
+    "static/media/control-stop.svg": "/Hakaton-ChattyAi/static/media/control-stop.ffc9660f9c37df107759.svg",
+    "main.d0941513.css.map": "/Hakaton-ChattyAi/static/css/main.d0941513.css.map",
+    "main.5ccf7eda.js.map": "/Hakaton-ChattyAi/static/js/main.5ccf7eda.js.map",
+    "787.7ffbbae1.chunk.js.map": "/Hakaton-ChattyAi/static/js/787.7ffbbae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0941513.css",
+    "static/js/main.5ccf7eda.js"
+  ]
+}
