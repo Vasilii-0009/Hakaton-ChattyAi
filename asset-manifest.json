@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hakaton-ChattyAi/static/css/main.d0941513.css",
-    "main.js": "/Hakaton-ChattyAi/static/js/main.50e20adf.js",
+    "main.js": "/Hakaton-ChattyAi/static/js/main.9b33f421.js",
     "static/js/787.7ffbbae1.chunk.js": "/Hakaton-ChattyAi/static/js/787.7ffbbae1.chunk.js",
     "static/media/main-logo.svg": "/Hakaton-ChattyAi/static/media/main-logo.42523019f866047b465f.svg",
     "static/media/delete.svg": "/Hakaton-ChattyAi/static/media/delete.351ab7395b0c80582c20.svg",
@@ -18,11 +18,11 @@
     "static/media/arrowTop.svg": "/Hakaton-ChattyAi/static/media/arrowTop.9e61d4e1b1b036f78644.svg",
     "static/media/control-stop.svg": "/Hakaton-ChattyAi/static/media/control-stop.ffc9660f9c37df107759.svg",
     "main.d0941513.css.map": "/Hakaton-ChattyAi/static/css/main.d0941513.css.map",
-    "main.50e20adf.js.map": "/Hakaton-ChattyAi/static/js/main.50e20adf.js.map",
+    "main.9b33f421.js.map": "/Hakaton-ChattyAi/static/js/main.9b33f421.js.map",
     "787.7ffbbae1.chunk.js.map": "/Hakaton-ChattyAi/static/js/787.7ffbbae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0941513.css",
-    "static/js/main.50e20adf.js"
+    "static/js/main.9b33f421.js"
   ]
 }
