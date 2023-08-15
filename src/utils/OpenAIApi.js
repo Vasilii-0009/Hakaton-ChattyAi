@@ -1,10 +1,9 @@
 import axios from 'axios'
-console.log('hellow Vasilii')
 const AUDIO_URL = 'https://api.openai.com/v1/audio/transcriptions';
 const CHAT_URL = 'https://api.openai.com/v1/chat/completions';
 const API_KEY = process.env.REACT_APP_APISECRET.split(',').reverse().join('');
 // const API_KEY = process.env.REACT_APP_APISECRET;
-// const API_KEY = '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'
+// const API_KEY = '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'
 
 export const sendAudio = async (formData) => {
   try {
