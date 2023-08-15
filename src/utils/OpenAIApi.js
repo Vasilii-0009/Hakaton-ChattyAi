@@ -20,7 +20,7 @@ export const sendAudio = async (formData) => {
     return response.data.text;
 
   } catch (error) {
-    console.error('Ошибка при :', error.message);
+    console.error('Ошибка :', error.message);
     throw new Error('Произошла ошибка при отправке аудио');
   }
 }
