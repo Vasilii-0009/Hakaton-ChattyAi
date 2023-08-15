@@ -2,7 +2,6 @@ import axios from 'axios'
 const AUDIO_URL = 'https://api.openai.com/v1/audio/transcriptions';
 const CHAT_URL = 'https://api.openai.com/v1/chat/completions';
 const API_KEY = process.env.REACT_APP_APISECRET.split(',').reverse().join('');
-// const API_KEY = process.env.REACT_APP_APISECRET;
 // const API_KEY = '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'
 
 export const sendAudio = async (formData) => {
