@@ -15,7 +15,6 @@ export const sendAudio = async (formData) => {
     if (!response.data.text) {
       throw new Error("Ошибка при отправке аудио");
     }
-    console.log(response.data.text);
 
     return response.data.text;
   } catch (error) {
@@ -44,8 +43,6 @@ export const sendText = async (text) => {
         },
       }
     );
-
-    console.log(response.data.choices[0].message.content);
 
     if (!response.data.choices[0].message.content) {
       throw new Error("Ошибка при отправке текста");
